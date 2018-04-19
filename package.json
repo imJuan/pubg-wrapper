@@ -1,0 +1,20 @@
+{
+  "name": "pubg-wrapper",
+  "version": "0.0.1",
+  "description": "Crappy pubg wrapper",
+  "private": true,
+  "main": "./src/index.js",
+  "scripts": {},
+  "dependencies": {
+    "unirest": "^0.5.1"
+  },
+  "keywords": [
+    "pubg",
+    "api",
+    "playerunknown"
+  ],
+  "author": "JB",
+  "engines": {
+    "node": ">6.0.0"
+  }
+}
