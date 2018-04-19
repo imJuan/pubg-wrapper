@@ -13,6 +13,7 @@ pubg.getPlayers({names: ['name1', 'name2']})
 
 ```
 
+
 Get multiple players by id
 ```js
 pubg.getPlayers({ids: ['account.1', 'account.2']})
