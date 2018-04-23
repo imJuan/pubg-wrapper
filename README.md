@@ -1,4 +1,4 @@
-messing around with [pubg api](developer.playbattlegrounds.com)
+messing around with [pubg api](https://developer.playbattlegrounds.com)
 
 
 #
